@@ -1,8 +1,7 @@
-This is my welcome web page 
+//This is my welcome web page 
 class Hello{
 
-main(){
-	sysout("welcome to git");
-}
-
+	public static void main(String args[]){
+		System.out.println("welcome to git");
+	}
 }
