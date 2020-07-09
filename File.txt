@@ -1,7 +1,9 @@
 //This is my welcome web page 
 class Hello{
 
-change1
+	void myMethod(){
+		System.out.println("Bug resolved");
+	}
 
 	public static void main(String args[]){
 		System.out.println("welcome to git");
