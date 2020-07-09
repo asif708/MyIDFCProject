@@ -1,7 +1,7 @@
 //This is my welcome web page 
 class Hello{
 
-	String myMethod(char[] c){
+	String myMethod(String str){
               //
               //
               //
