@@ -1,8 +1,11 @@
 //This is my welcome web page 
 class Hello{
 
-	void myMethod(){
-		System.out.println("Bug resolved");
+	String myMethod(char[] c){
+              //
+              //
+              //
+              returns str;
 	}
 
 	public static void main(String args[]){
